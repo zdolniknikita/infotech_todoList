@@ -20,7 +20,7 @@
   "homepage": "https://github.com/zdolniknikita/infotech_todoList#readme",
   "dependencies": {
     "commander": "^5.0.0",
-    "config": "^3.3.0",
+    "config": "^3.3.8",
     "inquirer": "^7.1.0",
     "mongoose": "^5.9.6",
     "node-persist": "^3.0.5"
